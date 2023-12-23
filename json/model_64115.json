@@ -482,6 +482,13 @@
               "name": "GS_Split_AC_Couple_kW",
               "size": 1,
               "type": "uint16"
+          },
+          {
+              "label": "unknown",
+              "mandatory": "M",
+              "name": "unknown",
+              "size": 1,
+              "type": "uint16"
           }
       ],
       "type": "group"
